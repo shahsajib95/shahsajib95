@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Social Media Site**
+- 🔭 I’m currently working on **Typescript**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Graphql**
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
