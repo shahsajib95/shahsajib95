@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Typescript**
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **Pyhton**
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
